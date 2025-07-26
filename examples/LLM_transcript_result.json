@@ -1,0 +1,832 @@
+{
+    "movies_reviewed": [
+        {
+            "title": "Swordfish",
+            "director": "Dominic Senna",
+            "discussion_start_timestamp": "00:00:40.000",
+            "recap_start_timestamp": "00:20:37.000",
+            "siskel_opinion": "Liked",
+            "ebert_opinion": "Disliked"
+        },
+        {
+            "title": "Bride of the Wind",
+            "director": "Bruce Beresford",
+            "discussion_start_timestamp": "00:03:59.000",
+            "recap_start_timestamp": "00:20:39.000",
+            "siskel_opinion": "Disliked",
+            "ebert_opinion": "Disliked"
+        },
+        {
+            "title": "Atlantis, The Lost Empire",
+            "director": null,
+            "discussion_start_timestamp": "00:08:01.000",
+            "recap_start_timestamp": "00:20:42.000",
+            "siskel_opinion": "Liked",
+            "ebert_opinion": "Liked"
+        },
+        {
+            "title": "Evolution",
+            "director": "Ivan Reitman",
+            "discussion_start_timestamp": "00:11:23.000",
+            "recap_start_timestamp": "00:20:46.000",
+            "siskel_opinion": "Disliked",
+            "ebert_opinion": "Disliked"
+        },
+        {
+            "title": "Divided We Fall",
+            "director": null,
+            "discussion_start_timestamp": "00:14:12.000",
+            "recap_start_timestamp": "00:20:46.000",
+            "siskel_opinion": "Liked",
+            "ebert_opinion": "Liked"
+        }
+    ],
+    "final_summary_timestamp": "00:20:33.000",
+    "named_entities": [
+        {
+            "name": "David Duchovny",
+            "type": "Person",
+            "timestamps": [
+                "00:00:00.000",
+                "00:11:23.000"
+            ]
+        },
+        {
+            "name": "Orlando Jones",
+            "type": "Person",
+            "timestamps": [
+                "00:00:00.000",
+                "00:11:23.000",
+                "00:13:04.000",
+                "00:13:27.000"
+            ]
+        },
+        {
+            "name": "Julianne Moore",
+            "type": "Person",
+            "timestamps": [
+                "00:00:00.000",
+                "00:11:27.000"
+            ]
+        },
+        {
+            "name": "Evolution",
+            "type": "Movie",
+            "timestamps": [
+                "00:00:05.000",
+                "00:07:02.000",
+                "00:10:53.000",
+                "00:11:29.000",
+                "00:12:29.000",
+                "00:12:57.000",
+                "00:14:05.000",
+                "00:20:42.000"
+            ]
+        },
+        {
+            "name": "Atlantis, The Lost Empire",
+            "type": "Movie",
+            "timestamps": [
+                "00:00:10.000",
+                "00:07:08.000",
+                "00:08:09.000",
+                "00:08:24.000",
+                "00:09:16.000",
+                "00:09:18.000",
+                "00:09:34.000",
+                "00:09:50.000",
+                "00:10:48.000",
+                "00:20:42.000"
+            ]
+        },
+        {
+            "name": "John Travolta",
+            "type": "Person",
+            "timestamps": [
+                "00:00:10.000",
+                "00:00:15.000",
+                "00:00:18.000",
+                "00:00:40.000",
+                "00:00:54.000",
+                "00:02:15.000",
+                "00:02:38.000",
+                "00:21:09.000"
+            ]
+        },
+        {
+            "name": "Halle Berry",
+            "type": "Person",
+            "timestamps": [
+                "00:00:10.000",
+                "00:00:40.000",
+                "00:01:00.000",
+                "00:02:42.000",
+                "00:03:00.000",
+                "00:03:05.000"
+            ]
+        },
+        {
+            "name": "Hugh Jackman",
+            "type": "Person",
+            "timestamps": [
+                "00:00:15.000",
+                "00:01:04.000",
+                "00:02:42.000",
+                "00:03:36.000"
+            ]
+        },
+        {
+            "name": "Swordfish",
+            "type": "Movie",
+            "timestamps": [
+                "00:00:15.000",
+                "00:00:46.000",
+                "00:00:54.000",
+                "00:02:15.000",
+                "00:02:28.000",
+                "00:20:37.000",
+                "00:21:09.000"
+            ]
+        },
+        {
+            "name": "Richard Roeper",
+            "type": "Person",
+            "timestamps": [
+                "00:00:46.000"
+            ]
+        },
+        {
+            "name": "Roger Ebert",
+            "type": "Person",
+            "timestamps": [
+                "00:00:54.000",
+                "00:17:10.000",
+                "00:20:31.000"
+            ]
+        },
+        {
+            "name": "Don Cheadle",
+            "type": "Person",
+            "timestamps": [
+                "00:01:13.000"
+            ]
+        },
+        {
+            "name": "Assel Torvalds",
+            "type": "Character",
+            "timestamps": [
+                "00:01:22.000"
+            ]
+        },
+        {
+            "name": "Harry Houdini",
+            "type": "Person",
+            "timestamps": [
+                "00:01:36.000"
+            ]
+        },
+        {
+            "name": "Dominic Senna",
+            "type": "Person",
+            "timestamps": [
+                "00:01:52.000",
+                "00:03:13.000"
+            ]
+        },
+        {
+            "name": "Gone in 60 Seconds",
+            "type": "Movie",
+            "timestamps": [
+                "00:01:52.000",
+                "00:03:13.000"
+            ]
+        },
+        {
+            "name": "Angelina Jolie",
+            "type": "Person",
+            "timestamps": [
+                "00:03:18.000",
+                "00:11:02.000",
+                "00:21:02.000"
+            ]
+        },
+        {
+            "name": "Bride of the Wind",
+            "type": "Movie",
+            "timestamps": [
+                "00:04:00.000",
+                "00:05:30.000",
+                "00:20:39.000"
+            ]
+        },
+        {
+            "name": "Alma Mahler",
+            "type": "Person",
+            "timestamps": [
+                "00:04:03.000",
+                "00:04:40.000",
+                "00:04:59.000",
+                "00:05:02.000",
+                "00:05:30.000",
+                "00:05:35.000",
+                "00:06:45.000",
+                "00:06:54.000"
+            ]
+        },
+        {
+            "name": "Vienna",
+            "type": "Location",
+            "timestamps": [
+                "00:04:08.000"
+            ]
+        },
+        {
+            "name": "Sarah Winter",
+            "type": "Person",
+            "timestamps": [
+                "00:04:14.000",
+                "00:05:21.000",
+                "00:05:52.000",
+                "00:05:55.000"
+            ]
+        },
+        {
+            "name": "Jonathan Pryce",
+            "type": "Person",
+            "timestamps": [
+                "00:04:22.000"
+            ]
+        },
+        {
+            "name": "Gustav Mahler",
+            "type": "Person",
+            "timestamps": [
+                "00:04:22.000",
+                "00:04:40.000",
+                "00:05:21.000"
+            ]
+        },
+        {
+            "name": "Oskar Kokoschka",
+            "type": "Person",
+            "timestamps": [
+                "00:05:08.000",
+                "00:05:17.000"
+            ]
+        },
+        {
+            "name": "Bruce Beresford",
+            "type": "Person",
+            "timestamps": [
+                "00:05:49.000"
+            ]
+        },
+        {
+            "name": "Monty Python",
+            "type": "Work",
+            "timestamps": [
+                "00:06:26.000"
+            ]
+        },
+        {
+            "name": "Babe Ruth",
+            "type": "Person",
+            "timestamps": [
+                "00:06:48.000"
+            ]
+        },
+        {
+            "name": "Albert Einstein",
+            "type": "Person",
+            "timestamps": [
+                "00:06:50.000"
+            ]
+        },
+        {
+            "name": "Cats & Dogs",
+            "type": "Movie",
+            "timestamps": [
+                "00:07:43.000"
+            ]
+        },
+        {
+            "name": "July 4th",
+            "type": "Date",
+            "timestamps": [
+                "00:07:50.000"
+            ]
+        },
+        {
+            "name": "Disney",
+            "type": "Organization",
+            "timestamps": [
+                "00:08:13.000",
+                "00:09:34.000"
+            ]
+        },
+        {
+            "name": "Milo",
+            "type": "Character",
+            "timestamps": [
+                "00:08:33.000",
+                "00:08:52.000"
+            ]
+        },
+        {
+            "name": "Princess Kida",
+            "type": "Character",
+            "timestamps": [
+                "00:08:33.000",
+                "00:09:14.000"
+            ]
+        },
+        {
+            "name": "Michael J. Fox",
+            "type": "Person",
+            "timestamps": [
+                "00:08:47.000"
+            ]
+        },
+        {
+            "name": "Cree Summer",
+            "type": "Person",
+            "timestamps": [
+                "00:08:47.000"
+            ]
+        },
+        {
+            "name": "20,000 Leagues Under the Sea",
+            "type": "Movie",
+            "timestamps": [
+                "00:09:20.000"
+            ]
+        },
+        {
+            "name": "The Little Mermaid",
+            "type": "Movie",
+            "timestamps": [
+                "00:09:22.000"
+            ]
+        },
+        {
+            "name": "Hayao Miyazaki",
+            "type": "Person",
+            "timestamps": [
+                "00:09:44.000"
+            ]
+        },
+        {
+            "name": "Princess Mononoke",
+            "type": "Movie",
+            "timestamps": [
+                "00:09:48.000"
+            ]
+        },
+        {
+            "name": "Shrek",
+            "type": "Movie",
+            "timestamps": [
+                "00:09:57.000"
+            ]
+        },
+        {
+            "name": "Hercules",
+            "type": "Movie",
+            "timestamps": [
+                "00:10:14.000"
+            ]
+        },
+        {
+            "name": "Marvel Comics",
+            "type": "Organization",
+            "timestamps": [
+                "00:10:27.000"
+            ]
+        },
+        {
+            "name": "Don Novello",
+            "type": "Person",
+            "timestamps": [
+                "00:10:43.000"
+            ]
+        },
+        {
+            "name": "Father Guido Sarducci",
+            "type": "Character",
+            "timestamps": [
+                "00:10:46.000"
+            ]
+        },
+        {
+            "name": "Lara Croft: Tomb Raider",
+            "type": "Movie",
+            "timestamps": [
+                "00:11:02.000",
+                "00:21:02.000"
+            ]
+        },
+        {
+            "name": "Bill Murray",
+            "type": "Person",
+            "timestamps": [
+                "00:11:23.000"
+            ]
+        },
+        {
+            "name": "Dan Aykroyd",
+            "type": "Person",
+            "timestamps": [
+                "00:11:23.000"
+            ]
+        },
+        {
+            "name": "Sigourney Weaver",
+            "type": "Person",
+            "timestamps": [
+                "00:11:27.000"
+            ]
+        },
+        {
+            "name": "Ghostbusters 3",
+            "type": "Movie",
+            "timestamps": [
+                "00:11:27.000"
+            ]
+        },
+        {
+            "name": "Ivan Reitman",
+            "type": "Person",
+            "timestamps": [
+                "00:11:36.000"
+            ]
+        },
+        {
+            "name": "Ghostbusters",
+            "type": "Movie",
+            "timestamps": [
+                "00:11:36.000",
+                "00:12:04.000",
+                "00:12:43.000",
+                "00:13:54.000",
+                "00:13:58.000"
+            ]
+        },
+        {
+            "name": "Seann William Scott",
+            "type": "Person",
+            "timestamps": [
+                "00:12:08.000"
+            ]
+        },
+        {
+            "name": "American Pie",
+            "type": "Movie",
+            "timestamps": [
+                "00:12:08.000"
+            ]
+        },
+        {
+            "name": "Divided We Fall",
+            "type": "Movie",
+            "timestamps": [
+                "00:14:12.000",
+                "00:15:32.000",
+                "00:20:46.000"
+            ]
+        },
+        {
+            "name": "Czech",
+            "type": "Nationality",
+            "timestamps": [
+                "00:14:15.000"
+            ]
+        },
+        {
+            "name": "Nazi",
+            "type": "Political Ideology",
+            "timestamps": [
+                "00:14:15.000",
+                "00:14:18.000",
+                "00:15:07.000"
+            ]
+        },
+        {
+            "name": "S\u00e1\u0148ka\u0159 Kasai",
+            "type": "Person",
+            "timestamps": [
+                "00:14:51.000"
+            ]
+        },
+        {
+            "name": "David",
+            "type": "Character",
+            "timestamps": [
+                "00:14:51.000",
+                "00:15:07.000"
+            ]
+        },
+        {
+            "name": "Boleslav Pol\u00edvka",
+            "type": "Person",
+            "timestamps": [
+                "00:14:55.000"
+            ]
+        },
+        {
+            "name": "Anna \u0160i\u0161kov\u00e1",
+            "type": "Person",
+            "timestamps": [
+                "00:14:55.000"
+            ]
+        },
+        {
+            "name": "Joseph",
+            "type": "Character",
+            "timestamps": [
+                "00:15:00.000",
+                "00:15:35.000"
+            ]
+        },
+        {
+            "name": "Marie",
+            "type": "Character",
+            "timestamps": [
+                "00:15:00.000",
+                "00:15:42.000"
+            ]
+        },
+        {
+            "name": "Milo\u0161 Forman",
+            "type": "Person",
+            "timestamps": [
+                "00:15:54.000"
+            ]
+        },
+        {
+            "name": "The Firemen's Ball",
+            "type": "Movie",
+            "timestamps": [
+                "00:15:57.000"
+            ]
+        },
+        {
+            "name": "Anthony Quinn",
+            "type": "Person",
+            "timestamps": [
+                "00:16:56.000",
+                "00:17:13.000",
+                "00:17:20.000",
+                "00:18:13.000",
+                "00:18:16.000",
+                "00:18:20.000",
+                "00:18:26.000",
+                "00:18:45.000",
+                "00:18:52.000",
+                "00:19:12.000",
+                "00:19:15.000",
+                "00:19:18.000"
+            ]
+        },
+        {
+            "name": "Nestle Raisonettes",
+            "type": "Product",
+            "timestamps": [
+                "00:17:10.000"
+            ]
+        },
+        {
+            "name": "Mexican",
+            "type": "Nationality",
+            "timestamps": [
+                "00:17:30.000",
+                "00:17:36.000"
+            ]
+        },
+        {
+            "name": "Irish",
+            "type": "Nationality",
+            "timestamps": [
+                "00:17:30.000"
+            ]
+        },
+        {
+            "name": "Italian",
+            "type": "Nationality",
+            "timestamps": [
+                "00:17:36.000"
+            ]
+        },
+        {
+            "name": "Japanese",
+            "type": "Nationality",
+            "timestamps": [
+                "00:17:36.000"
+            ]
+        },
+        {
+            "name": "Hawaiian",
+            "type": "Nationality",
+            "timestamps": [
+                "00:17:36.000"
+            ]
+        },
+        {
+            "name": "Chinese",
+            "type": "Nationality",
+            "timestamps": [
+                "00:17:36.000"
+            ]
+        },
+        {
+            "name": "East Indian",
+            "type": "Nationality",
+            "timestamps": [
+                "00:17:36.000"
+            ]
+        },
+        {
+            "name": "Eskimo",
+            "type": "Nationality",
+            "timestamps": [
+                "00:17:36.000"
+            ]
+        },
+        {
+            "name": "Greek",
+            "type": "Nationality",
+            "timestamps": [
+                "00:17:41.000"
+            ]
+        },
+        {
+            "name": "Zorba",
+            "type": "Character",
+            "timestamps": [
+                "00:17:41.000"
+            ]
+        },
+        {
+            "name": "Viva Zapata!",
+            "type": "Movie",
+            "timestamps": [
+                "00:17:46.000"
+            ]
+        },
+        {
+            "name": "Lust for Life",
+            "type": "Movie",
+            "timestamps": [
+                "00:17:48.000"
+            ]
+        },
+        {
+            "name": "The Guns of Navarone",
+            "type": "Movie",
+            "timestamps": [
+                "00:17:52.000"
+            ]
+        },
+        {
+            "name": "The Ox-Bow Incident",
+            "type": "Movie",
+            "timestamps": [
+                "00:17:52.000"
+            ]
+        },
+        {
+            "name": "Revenge",
+            "type": "Movie",
+            "timestamps": [
+                "00:17:57.000"
+            ]
+        },
+        {
+            "name": "Kevin Costner",
+            "type": "Person",
+            "timestamps": [
+                "00:17:57.000"
+            ]
+        },
+        {
+            "name": "Madeleine Stowe",
+            "type": "Person",
+            "timestamps": [
+                "00:17:57.000"
+            ]
+        },
+        {
+            "name": "Only the Lonely",
+            "type": "Movie",
+            "timestamps": [
+                "00:18:06.000"
+            ]
+        },
+        {
+            "name": "Federico Fellini",
+            "type": "Person",
+            "timestamps": [
+                "00:18:26.000",
+                "00:18:32.000"
+            ]
+        },
+        {
+            "name": "La Strada",
+            "type": "Movie",
+            "timestamps": [
+                "00:18:26.000"
+            ]
+        },
+        {
+            "name": "Zampan\u00f2",
+            "type": "Character",
+            "timestamps": [
+                "00:18:28.000"
+            ]
+        },
+        {
+            "name": "Giulietta Masina",
+            "type": "Person",
+            "timestamps": [
+                "00:18:32.000"
+            ]
+        },
+        {
+            "name": "A Walk in the Clouds",
+            "type": "Movie",
+            "timestamps": [
+                "00:18:49.000",
+                "00:19:09.000"
+            ]
+        },
+        {
+            "name": "California",
+            "type": "Location",
+            "timestamps": [
+                "00:18:52.000"
+            ]
+        },
+        {
+            "name": "Keanu Reeves",
+            "type": "Person",
+            "timestamps": [
+                "00:19:06.000"
+            ]
+        },
+        {
+            "name": "Newsweek",
+            "type": "Organization",
+            "timestamps": [
+                "00:19:43.000"
+            ]
+        },
+        {
+            "name": "David Manning",
+            "type": "Person",
+            "timestamps": [
+                "00:19:43.000"
+            ]
+        },
+        {
+            "name": "Columbia Pictures",
+            "type": "Organization",
+            "timestamps": [
+                "00:19:50.000"
+            ]
+        },
+        {
+            "name": "CBS",
+            "type": "Organization",
+            "timestamps": [
+                "00:19:58.000"
+            ]
+        },
+        {
+            "name": "ABC",
+            "type": "Organization",
+            "timestamps": [
+                "00:19:58.000"
+            ]
+        },
+        {
+            "name": "ebert-roper-movies.com",
+            "type": "Website",
+            "timestamps": [
+                "00:20:51.000"
+            ]
+        },
+        {
+            "name": "suntimes.com",
+            "type": "Website",
+            "timestamps": [
+                "00:20:57.000"
+            ]
+        },
+        {
+            "name": "Battlefield Earth",
+            "type": "Movie",
+            "timestamps": [
+                "00:21:16.000"
+            ]
+        }
+    ]
+}
